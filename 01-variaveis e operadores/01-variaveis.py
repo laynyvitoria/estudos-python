@@ -1,4 +1,6 @@
-# Exemplo de variáveis em Python
+# =======================================
+##======== VARIAVEIS EM PYTHON ========##
+# =======================================
 
 # Criação de variáveis com tipos diferentes
 nome = 'Layny'  # String
